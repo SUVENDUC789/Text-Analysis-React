@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 ## Here is the [Live-App](https://suvendu-text-analysis.netlify.app/)
+# Technologies i used in it 👨‍💻
+<a href="#">
+ <img src="https://img.icons8.com/color/48/000000/react.png"/>         <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>          
+
+ </a>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
